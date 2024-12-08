@@ -66,5 +66,5 @@ Welcome to a curated collection of next-generation crypto trading bots and utili
 ## 🔗 **Connect with Me**  
 Let’s collaborate or discuss ideas!  
 
-💼 **[@dogewhiz](https://t.me/muffin819)**  
+💼 **[@dogewhiz](https://t.me/dogewhiz)**  
 
