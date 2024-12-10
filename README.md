@@ -46,8 +46,6 @@ Welcome to a curated collection of next-generation crypto trading bots and utili
 | **Bundlers**            | Pumpfun Bundler                                      | Multi-wallet bundler                         | [Repo](https://github.com/muffin819/PumpFun-Bundler)                      |
 |                         | Raydium Bundler                                      | 21+ wallet bundler for Raydium               | [Repo](https://github.com/muffin819/Raydium-Bundler)                      |
 | **PumpFun Comment Bot** | PumpFun Comment Bot                                  | Automates comments for PumpFun               | [Repo](https://github.com/muffin819/PumpFun-Comment-Bot)                  |
-| **Arbitrage Bots**      | Solana Arbitrage Bot (Jupiter v4)                    | Arbitrage bot with Jupiter v4                | [Repo](https://github.com/muffin819/Solana-Arbitrage-Bot)                 |
-|                         | Arbitrage Bot (Jupiter v5)                           | Arbitrage bot with Jupiter v5                | [Repo](https://github.com/muffin819/Arbitrage-Jupter-v5-Bot)              |
 | **MemeToken Launchpad** | MemeToken Launchpad                                  | Meme token launchpad on Raydium              | [Repo](https://github.com/muffin819/Memetoken-Launcher)                   |
 | **Token Freezer**       | Token Freezer                                        | Tool for freezing tokens                     | [Repo](https://github.com/muffin819/Token-Freezer)                        |
 | **Copy Trading Bot**    | Copy Trading Bot                                     | Automates trades by mirroring wallets        | [Repo](https://github.com/muffin819/Copy-Trading-Bot)                     |
