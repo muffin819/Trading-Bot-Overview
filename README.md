@@ -25,28 +25,28 @@ Welcome to a curated collection of next-generation crypto trading bots and utili
 
 <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
 
-| **Category**           | **Bot Name**                                          | **Description**                              | **Repo Link**                                                                 |
+| **Category**           | **Bot Name**                                          | **Description**                              | **Fetures**                                                                 |
 |-------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
-| **Volume Bots**         | Ethereum Volume Bot                                  | Ethereum volumn bot                          | [Repo](https://github.com/muffin819/ethereum-volumn-bot)                  |
-|                         | Ethereum Volume Bot (Multiple Wallets)               | Base Volumn bot                              | [Repo](https://github.com/muffin819/Ether-Volume-Bot-v2)                  |
-|                         | Raydium Volume Bot                                   | Jito bundle-based fast bot                   | [Repo](https://github.com/muffin819/solana-volumn-bot)                  |
-|                         | Solana Multidex Volume Bot                           | Volume bot for Raydium, Meteora, and Jupiter | [Repo](https://github.com/muffin819/solana-volumn-bot-v3)           |
-|                         | Meteora Volume Bot                                   | Solana-specific Meteora volume bot           | [Repo](https://github.com/muffin819/meteora-volumn-bot)                   |
-|                         | Pumpfun Volume Bot                                   | Solana-based volume bot                      | [Repo](https://github.com/muffin819/solana-volumn-bot-v3)                   |
-|                         | Moonshot Volume Bot                                  | High-potential Solana volume bot             | [Repo](https://github.com/muffin819/Moonshot-Volume-Bot)                  |
-|                         | Tron Volume Bot                                      | Tron-based volume bot                        | [Repo](https://github.com/muffin819/Tron-Volume-Bot/)                      |
-| **Sniper Bots**         | Pumpfun Sniper Bot                                   | Basic sniper bot                             | [Repo](https://github.com/muffin819/PumpFun-Sniper-Bot)                   |
-|                         | Pumpfun Sniper Bot v1                                | Geyser-enhanced WebSocket sniper bot         | [Repo](https://github.com/muffin819/PumpFun-Sniper-Bot-v1)                |
-|                         | Pumpfun Sniper Bot v2                                | Advanced sniper with Yellowstone support     | [Repo](https://github.com/muffin819/PumpFun-Sniper-Bot-v2)                |
-|                         | Raydium Sniper Bot                                   | Solana sniper bot using logs                 | [Repo](https://github.com/muffin819/Raydium-sniper/)                |
-|                         | Raydium Sniper Bot v1                                | Enhanced sniper bot with WebSocket           | [Repo](https://github.com/muffin819/Raydium-Sniper-Bot-v1)                |
-| **Bundlers**            | Pumpfun Bundler                                      | Multi-wallet bundler                         | [Repo](https://github.com/muffin819/PumpFun-Bundler)                      |
-|                         | Raydium Bundler                                      | 21+ wallet bundler for Raydium               | [Repo](https://github.com/muffin819/Raydium-Bundler)                      |
-| **PumpFun Comment Bot** | PumpFun Comment Bot                                  | Automates comments for PumpFun               | [Repo](https://github.com/muffin819/PumpFun-Comment-Bot)                  |
-| **MemeToken Launchpad** | MemeToken Launchpad                                  | Meme token launchpad on Raydium              | [Repo](https://github.com/muffin819/raydium-token-launchpad)                   |
-| **Token Freezer**       | Token Freezer                                        | Tool for freezing tokens                     | [Repo](https://github.com/muffin819/token-freeze)                        |
-| **Copy Trading Bot**    | Copy Trading Bot                                     | Automates trades by mirroring wallets        | [Repo](https://github.com/muffin819/copy-trade-bot)                     |
-| **Wallet Trackers**     | Wallet Trackers                                      | Track and monitor crypto wallets             | [Repo](https://github.com/muffin819/wallet-trackers)                        |
+| **Volume Bots**         | Ethereum Volume Bot                                  | Ethereum volumn bot                          | Use OpenZeppelin SDK                  |
+|                         | Ethereum Volume Bot (Multiple Wallets)               | Base Volumn bot                              | Use Bitquery and Web3.py                  |
+|                         | Raydium Volume Bot                                   | Jito bundle-based fast bot                   | Use Jupiter Router                  |
+|                         | Solana Multidex Volume Bot                           | Volume bot for Raydium, Meteora, and Jupiter | Use Solana Tracker           |
+|                         | Meteora Volume Bot                                   | Solana-specific Meteora volume bot           | Use Meteora SDK                   |
+|                         | Pumpfun Volume Bot                                   | Solana-based volume bot                      | Use Pumpfun SDK                  |
+|                         | Moonshot Volume Bot                                  | High-potential Solana volume bot             | Use Moonshot SDK                  |
+|                         | Tron Volume Bot                                      | Tron-based volume bot                        | Use Sun Pump API                      |
+| **Sniper Bots**         | Pumpfun Sniper Bot                                   | Basic sniper bot                             | Use WebSocket Monitor, Able to run with Free RPC                   |
+|                         | Pumpfun Sniper Bot v1                                | Geyser-enhanced WebSocket sniper bot         | Use Helius Geyser, Enhanced Sniping Time                |
+|                         | Pumpfun Sniper Bot v2                                | Advanced sniper with Yellowstone support     | Use YellowStone GRPC, Sniping around 1 Block                |
+|                         | Raydium Sniper Bot                                   | Solana sniper bot using logs                 | Use Helius Geyser, Raydium SDK             |
+|                         | Raydium Sniper Bot v1                                | Enhanced sniper bot with WebSocket           | Use YellowStone GRPC, Jito Confirm, Raydium SDK               |
+| **Bundlers**            | Pumpfun Bundler                                      | Multi-wallet bundler                         | Simple Jito Bundling                    |
+|                         | Raydium Bundler                                      | 21+ wallet bundler for Raydium               | Bundling + 21 Wallets, ( Updating ) 27 Wallets                       |
+| **PumpFun Comment Bot** | PumpFun Comment Bot                                  | Automates comments for PumpFun               | Comment from JSON file , Comment from New Generated Address                 |
+| **MemeToken Launchpad** | MemeToken Launchpad                                  | Meme token launchpad on Raydium              | Raydium Token Launchpad to launch meme tokens in Raydium                   |
+| **Token Freezer**       | Token Freezer                                        | Tool for freezing tokens                     | Freezes token account by sending transactions to ATA                        |
+| **Copy Trading Bot**    | Copy Trading Bot                                     | Automates trades by mirroring wallets        | Use jupiter Route                     |
+| **Wallet Trackers**     | Wallet Trackers                                      | Track and monitor crypto wallets             | Wallet Activity, Token Price, Tracking 10000 Lists , Double Hash User Info                      |
 
 </div>
 
